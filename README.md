@@ -1,51 +1,70 @@
-<<<<<<< HEAD
-# Library-Management-WebApp
-LibraHost is a user-friendly library management website. Easily add, organize, and access your book collection. Enjoy dark mode, real-time book count, sorting, and PDF downloads.
+# E-Academic-Hub – Online Academic Management Platform
 
-# Project Title
+**E-Academic-Hub** is a comprehensive, user-friendly platform designed to streamline academic management.  
+It enables students and educators to manage courses, assignments, and resources efficiently — all in one place.
 
-## Description
+---
 
-This project is a Library Management System designed to efficiently manage the books and resources of a library. It provides features for cataloging books, managing user accounts, and streamlining the borrowing and returning process. 
+## 📑 Table of Contents
+- [Features](#-features)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Screenshots](#-screenshots)
+- [Contributing](#-contributing)
+- [License](#-license)
 
-## Table of Contents
+---
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
+## 🚀 Features
+- **User Authentication**: Secure login for students, teachers, and admins.  
+- **Course Management**: Create, update, and organize courses.  
+- **Assignments & Submissions**: Submit and track assignments easily.  
+- **Resource Sharing**: Upload and download study materials.  
+- **Notifications**: Alerts for deadlines, announcements, and updates.  
+- **Analytics Dashboard**: Overview of academic progress and course activity.  
 
-## Installation
+---
 
-1. Clone this repository.
-2. Install the required dependencies using `npm install`.
-3. Set up the database with the provided SQL script.
-4. Configure the database connection in the `.env` file.
-5. Run the application with `npm start`.
+## ⚙️ Installation
 
-## Usage
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/vermayajat/E-Academic-Hub.git
 
-- Access the web app by visiting the specified URL.
-- Log in with your credentials.
-- Explore the various features for managing books, users, and transactions.
-- Enjoy the efficiency and convenience of the Library Management System.
+   Navigate into the project folder
 
-## Features
+cd E-Academic-Hub
 
-- User authentication and role-based access control.
-- Book cataloging and search functionality.
-- Borrowing and returning books with due date management.
-- User account management.
-- Administrative tools for librarians.
 
-## Contributing
+Install dependencies
 
-Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests to us.
+npm install
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-=======
+Configure the database
 
->>>>>>> c1859904d55c180e975ad25cfc290ca8a244ded4
+Run the provided SQL scripts or set up your preferred database.
+
+Update the .env file with your database connection details.
+
+Run the application
+
+npm start
+
+
+Open your browser
+Visit: http://localhost:3000
+ (or your configured port).
+
+📘 Usage
+
+Log in with your account (student, teacher, or admin).
+
+Access courses, assignments, and resources.
+
+Upload or download study materials.
+
+Monitor progress via the dashboard.
+
+Receive notifications for important events.
+

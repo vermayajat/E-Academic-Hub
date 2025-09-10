@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Library-Management-WebApp
 LibraHost is a user-friendly library management website. Easily add, organize, and access your book collection. Enjoy dark mode, real-time book count, sorting, and PDF downloads.
 
@@ -45,3 +46,6 @@ Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTIN
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+=======
+
+>>>>>>> c1859904d55c180e975ad25cfc290ca8a244ded4
